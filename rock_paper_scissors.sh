@@ -21,7 +21,7 @@ trap ctrl_c INT
 function helpPanel(){
 
   echo -e "\n${yellow}[i] ${end}${gray}Uso:${end}"
-  echo -e "\t${purple}-f ${end}${gray} Indicar número de juegos${end}"
+  echo -e "\t${purple}-j ${end}${gray} Indicar número de juegos${end}"
 }
 
 function rock_paper_scissors(){
